@@ -1,5 +1,5 @@
-
-
+    1  VirtualBox --startvm XP
+    2  man pwd
     3  cat /etc/* -realease
     4  cat /etc/*-realease
     5  cat /etc/*-release
@@ -62,3 +62,66 @@
    62  pwd
    63  history
    64  history > history.txt
+   65  cat history.txt
+   66  ls -l
+   67  nano history.txt
+   68  cat history.txt
+   69  git add.
+   70  git add .
+   71  git commit -m "20170914_15_55"
+   72  git push origin master
+   73  man echo
+   74  $ echo Tecmint is a community of Linux Nerds
+   75  echo Tecmint is a community of Linux Nerds
+   76  x=10
+   77  echo The calue of variable x = x
+   78  echo The value of variably x = $x
+   79  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
+   80  echo -e "Tecmint \bis \nis
+
+   81  echo The value of variable x = $x 
+   82  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds" 
+   83  cp history.txt a.txt
+   84  ls -l
+   85  cp history.txt ~/a1.txt
+   86  cd .. 
+   87  ls -l
+   88  cd darbi
+   89  cp history.txt /home/user/a2.txt
+   90  cp history.txt ../a3.txt
+   91  ls
+   92  ..
+   93  ls
+   94  cd ..
+   95  ls
+   96  cd /
+   97  pwd
+   98  mv /home/user/*.txt ~/darbi/
+   99  cd
+  100  ls
+  101  cd darbi/
+  102  ls
+  103  mkdir apaksdarbi
+  104  ls -l
+  105  mv a*.txt ./apaksdarbi/
+  106  ls
+  107  cd apaksdarbi/
+  108  ls
+  109  cd ..
+  110  rmdir apaksdarbi/
+  111  rm apaksdarbi/
+  112  rm -r apaksdarbi/
+  113  ls
+  114  nano history.txt 
+  115  nano
+  116  ls
+  117  nano
+  118  ls
+  119  cat nano\ kaut\ kas.txt 
+  120  rmdir nano kaut kas.txt
+  121  rmdir nano\ kaut\ kas\.txt
+  122  rm -r nano\ kaut\ kas.txt 
+  123  ls
+  124  quit
+  125  ls -la
+  126  history > history.txt
