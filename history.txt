@@ -1,5 +1,5 @@
-    1  VirtualBox --startvm XP
-    2  man pwd
+
+
     3  cat /etc/* -realease
     4  cat /etc/*-realease
     5  cat /etc/*-release
@@ -27,3 +27,38 @@
    27  ls -la
    28  history
    29  history > history.txt
+   30  ls -la
+   31  cat history.txt
+   32  ls
+   33  git init
+   34  git add .
+   35  git add README.md
+   36  la
+   37  echo #DMI >> README.md
+   38  pwd
+   39  la
+   40  cd .git
+   41  pwd
+   42  la
+   43  cd ..
+   44  git config --global user.email sendijs43@inbox.lv
+   45  ls
+   46  git commit -m "20170914_15_55"
+   47  git remote add origin https:/github.com/Sjidnes/DMI.git
+   48  git push -u origin master
+   49  git push origin master
+   50  historty
+   51  git push origin master
+   52  git remote add origin https://github.com/Sjidnes/DMI.git
+   53  git push origin master
+   54  ls -la
+   55  rm -rf .git/
+   56  git init
+   57  git add .
+   58  git config --global user.email sendijs43@inbox.lv
+   59  git commit -m "20170914_15_55"
+   60  git remote add origin https://github.com/Sjidnes/DMI.git
+   61  git push origin master
+   62  pwd
+   63  history
+   64  history > history.txt
