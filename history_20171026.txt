@@ -1,0 +1,168 @@
+    1  VirtualBox --startvm XP
+    2  &firefox&
+    3  firefox
+    4  clone git https://github.com/Sjidnes/DMI.git
+    5  git clone https://github.com/Sjidnes/DMI.git
+    6  pwd
+    7  ls -la
+    8  nano if.sh
+    9* 
+   10  ./if.sh
+   11  pwd
+   12  nano if.sh
+   13  ./if.sh 10
+   14  ./if sh -10
+   15  ./if.sh -10
+   16  pwd
+   17  ls -l
+   18  mv if.sh DMI/
+   19  ls -l
+   20  cd DMI
+   21  ls -l
+   22  nano if.sh
+   23  ./if.sh 10
+   24  nano if.sh
+   25  .if.sh 10
+   26  ./if.sh 10
+   27  ./if.sh -19
+   28  nano.sh
+   29  nano if.sh
+   30  ./if.sh 10
+   31  ./if.sh -10
+   32  nano if.sh
+   33  ./if.sh 10
+   34  ./if.sh -10
+   35  ./if.sh 0
+   36  nano if.sh
+   37  ./if.sh 0
+   38  nano if.sh
+   39  ./if.sh 0
+   40  nano if.sh
+   41  ./if.sh 0
+   42  ./if.sh -10
+   43  ./if.sh 10
+   44  nano sort.sh
+   45  ls -la
+   46  nano sory
+   47  nano sort
+   48  nano sort.sh
+   49  chmod 744 sort.sh
+   50  ./sort.sh 1 2 3
+   51  ./sort.sh 2 4 6
+   52  nano sort.sh
+   53  nano if.sh
+   54  nano sort.sh
+   55  nano if.sh
+   56  nano sort.sh
+   57  nano if.sh
+   58  nano sort.sh
+   59  ./sort.sh 1 2 3
+   60  nano sort.sh
+   61  nano if.sh
+   62  nano sort.sh
+   63  ./sort.sh 1 2 3
+   64  nano sort.sh
+   65  ./sort.sh 1 2 3
+   66  nano sort.sh
+   67  ./sort.sh 1 2 3
+   68  nano sort.sh
+   69  ./sort.sh 1 2 3
+   70  nano sort.sh
+   71  ./sort.sh 1 2 3./sort.sh 1 2 3
+   72  ./sort.sh 1 2 3
+   73  nano sort.sh
+   74  ./sort.sh 1 2 3
+   75  nano sort.sh
+   76  ./sort.sh 1 2 3
+   77  nano sort.sh
+   78  ./sort.sh 1 2 3
+   79  nano sort.sh
+   80  ./sort.sh 1 2 3
+   81  nano sort.sh
+   82  ./sort.sh 1 2 3
+   83  nano sort.sh
+   84  ./sort.sh 1 2 3
+   85  nano sort.sh
+   86  ./sort.sh 3 2 1
+   87  nano sort.sh
+   88  ./sort.sh 1 2 3
+   89  ./sort.sh 3 2 1
+   90  nano sort.sh
+   91  ./sort.sh 1 2 3
+   92  nano sort.sh
+   93  ./sort.sh 1 2 3
+   94  ./sort.sh 3 2 1
+   95  nano sort.sh
+   96  ./sort.sh
+   97  nano sort.sh
+   98* 
+   99  nano sort.sh
+  100  ./sort.sh
+  101  nano sort.sh\
+  102  ./sort.sh
+  103  nano sort.sh\
+  104* 
+  105  123
+  106  ./sort.sh
+  107  nano sort.sh\
+  108  mv sort.sh sort_asc.sh 
+  109  ls -l
+  110  cp sort_asc.sh sort_desc.sh 
+  111  ls -l
+  112  nano sort_desc.sh\
+  113  sort_desc.sh
+  114  ./sort_desc.sh
+  115  cp sort_asc.sh statistika.sh 
+  116  ls -l
+  117  nano statistika.sh
+  118  .statistika.sh
+  119  ./statistika.sh
+  120  nano statistika.sh
+  121  ./statistika.sh
+  122  nano statistika.sh
+  123  nano sort_desc.sh
+  124  cp sort_asc.sh vid.sh
+  125  ls -l
+  126  nano vid.sh
+  127  nano array_loop.sh
+  128  ./array_loop.sh 1 2 3
+  129  chmod 744 array_loop.sh
+  130  ./array_loop.sh 1 2 3
+  131  nano array_loop.sh
+  132  ./array_loop.sh 1 2 3
+  133  nano array_loop.sh
+  134  ./array_loop.sh 1 2 3
+  135  nano array_loop.sh
+  136  ./array_loop.sh 23
+  137  ./array_loop.sh 23 2 1223 442
+  138  nano array_loop.sh
+  139  nano statistika.sh
+  140  ls -l
+  141  nano vid.sh
+  142  .vid.sh 
+  143  ./vid.sh
+  144  
+  145  nano vid.sh
+  146  ./vid.sh
+  147  nano vid.sh
+  148  ./vid.sh
+  149  nano vid.sh
+  150  ./vid.sh
+  151  nano vid.sh
+  152  ./vid.sh
+  153  nano vid.sh
+  154  ./vid.sh
+  155  nano vid.sh
+  156  ./vid.sh
+  157  nano vid.sh
+  158  ./vid.sh
+  159  nano vid.sh
+  160  ./vid.sh
+  161  nano vid.sh
+  162  ./vid.sh
+  163  nano vid.sh
+  164  ./vid.sh
+  165  nano vid.sh
+  166  ./vid.sh
+  167  nano vid.sh
+  168  history > history_20171026.txt
