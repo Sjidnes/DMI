@@ -1,0 +1,308 @@
+    1  VirtualBox --startvm XP
+    2  &firefox
+    3  firefox &
+    4* gt clone https://github.com/miksbicevskis/DMI
+    5  cd DMI
+    6  ls
+    7  /mkdir PYTHON
+    8  mkdir PYTHON
+    9  cd PYTHON
+   10  PWD
+   11  pwd
+   12  wheris python
+   13  nano hello.py
+   14  ls -l
+   15  ./hello.py
+   16  chmod 744 hello.py
+   17  ./hello.py
+   18  nano hello.py
+   19  ./hello.py
+   20  nano hello.py
+   21  ./hello.py
+   22  nano hello.py
+   23  ./hello.py
+   24  nano hello.py
+   25  ./hello.py
+   26  nano hello.py
+   27  ./hello.py
+   28  nano hello.py
+   29  ./hello.py
+   30  nano hello.py
+   31  ./hello.py
+   32  nano hello.py
+   33  ./hello.py
+   34  nano hello.py
+   35  ./hello.py
+   36  nano hello.py
+   37  ./hello.py
+   38  nano hello.py
+   39  ./hello.py
+   40  nano hello.py
+   41  ./hello.py
+   42  nano hello.py
+   43  ./hello.py
+   44  nano hello.py
+   45  ./hello.py
+   46  nano hello.py
+   47  ./hello.py
+   48  nano hello.py
+   49  nano variables.py
+   50  chmod 744 variables.py
+   51  nano variables.py
+   52  ./variables.py
+   53  nano variables.py
+   54  ./variables.py
+   55  nano variables.py
+   56  ./variables.py
+   57  nano variables.py
+   58  ./variables.py
+   59  nano variables.py
+   60  ./variables.py
+   61  nano variables.py
+   62  ./variables.py
+   63  nano variables.py
+   64  ./variables.py
+   65  nano variables.py
+   66  ./variables.py
+   67  nano variables.py
+   68  ./variables.py
+   69  nano variables.py
+   70  ./variables.py
+   71  nano variables.py
+   72  ./variables.py
+   73  nano variables.py
+   74  ./variables.py
+   75  nano variables.py
+   76  ./variables.py
+   77  nano variables.py
+   78  ./variables.py
+   79  nano variables.py
+   80  ./variables.py
+   81  nano variables.py
+   82  nano dialogs.py
+   83  ./dialogs.py
+   84  chmod 744 dialogs.py
+   85  ./dialogs.py
+   86  nano dialogs.py
+   87  ./dialogs.py
+   88  nano dialogs.py
+   89  ./dialogs.py
+   90  nano dialogs.py
+   91  ./dialogs.py
+   92  nano dialogs.py
+   93  ./dialogs.py
+   94  nano dialogs.py
+   95  ./dialogs.py
+   96  nano dialogs.py
+   97  ./dialogs.py
+   98  nano if.py
+   99  nano dialogs.py
+  100  nano if.py
+  101  chmod 744 of.py
+  102  chmod 744 if.py
+  103  ./if.py
+  104  nano if.py
+  105  ./if.py
+  106  nano if.py
+  107  ./if.py
+  108  nano if.py
+  109  python if.py
+  110  python if.py -4
+  111  cd ..
+  112  pwd
+  113  history > history_20171108.txt
+  114  cat git-upload
+  115  ./git-upload 
+  116  nanp hello.py
+  117  nano hello.py
+  118  idle $
+  119  nano hello.sh
+  120  nano hello.py
+  121  ls -la
+  122  dmi
+  123  git_clone https://github.com/Sjidnes/DMI
+  124  gitclone https://github.com/Sjidnes/DMI
+  125  git clone https://github.com/Sjidnes/DMI
+  126  ls -la
+  127  ch git
+  128  ch
+  129  cd DMI
+  130  pwd
+  131  mkdir PYTHON
+  132  ls
+  133  cd PYTHON
+  134  nano hello.sh
+  135  nano hello.py
+  136  cd
+  137  cd dmi
+  138  ls
+  139  cd dmi
+  140  CD dmi
+  141  cd DMI
+  142  cd PYTHON
+  143  ls la
+  144  ls -la
+  145  ls
+  146  hello
+  147  cd
+  148  ls
+  149  nano hello.py
+  150  cd DMI
+  151  ls
+  152  nano if.sh
+  153  if back; q; quit; q; cd; nanao; asodfjkasdijf
+  154  nano 
+  155  cd if
+  156  ls la
+  157  ls
+  158  cd PYTHON
+  159  chmod 744 hello.py
+  160  history
+  161  ./hello.py
+  162  ./if.sh
+  163  cd DMIcd
+  164  cd
+  165  c
+  166  dc
+  167  d
+  168  c
+  169  CD
+  170  cd
+  171  cd DMI
+  172  ./if.sh
+  173  nano if.sh
+  174  .if.sh 1
+  175  nano hello.py
+  176  cd PYTHON
+  177  nano hello.py
+  178  cd
+  179  cd DMI
+  180  nano if.sh
+  181  cd PYTHON
+  182  nano hello.py
+  183  ./hello.py
+  184  nano hello.py
+  185  ./hello.py
+  186  nano hello.py
+  187  nano hello.pyc
+  188  hello.py
+  189  nano hello.py
+  190  ./hello.py
+  191  .\hello.py
+  192  nano hello.py
+  193  ./hello.py
+  194  whereis python
+  195  nano hello.py
+  196  ./hello.py
+  197  nano hello.py
+  198  ./hello.py
+  199  nano hello.py
+  200  ./hello.py
+  201  nano hello.py
+  202  ./hello.py
+  203  nano hello.py
+  204  ./hello.py
+  205  nano hello.py
+  206  ./hello.py
+  207  nano hello.py
+  208  ./hello.py
+  209  nano hello.py
+  210  ./hello.py
+  211  nano hello.py
+  212  ./hello.py
+  213  nano hello.py
+  214  ./hello.py
+  215  nano hello.py
+  216  ./hello.py
+  217  nano hello.py
+  218  ./hello.py
+  219  nano hello.py
+  220  ./hello.py
+  221  nano hello.py
+  222  ./hello.py
+  223  nano hello.py
+  224  ./hello.py
+  225  nano variables.py
+  226  chmod 744 variables.py
+  227  cat variables.py
+  228  ./variables.py 
+  229  ./variables.py 1
+  230  nano variables.py 
+  231  ./variables.py 1
+  232  nano variables.py 
+  233  ./variables.py 1
+  234  idle
+  235  ./variables.py 1
+  236  idle\
+  237  nano variables.py 
+  238  nano dialogs.py
+  239  chmod 744 dialogs.py
+  240  ./dialogs
+  241  ./dialogs.py 
+  242  nano dialogs.py
+  243  ./dialogs.py 
+  244  nano dialogs.py
+  245  ./dialogs.py 
+  246  nano dialogs.py
+  247  ./dialogs.py 
+  248  nano dialogs.py
+  249  ./dialogs.py 
+  250  10
+  251  ./dialogs.py 
+  252  nano dialogs.py
+  253  ./dialogs.py 
+  254  nano dialogs.py
+  255  ./dialogs.py 
+  256  asdf
+  257  nano dialogs.py
+  258  ./dialogs.py 
+  259  nano dialogs.py
+  260  ./dialogs.py 
+  261  nano dialogs.py
+  262  ./dialogs.py 
+  263  nano dialogs.py
+  264  ./dialogs.py 
+  265  nano dialogs.py
+  266  nano if.py
+  267  python if.py
+  268  nano if.py
+  269  python if.py
+  270  nano if.py
+  271  python if.py
+  272  nano if.py
+  273  python if.py
+  274  nano if.py
+  275  idle
+  276  git push origin master
+  277  ./git-upload
+  278  cd
+  279  cd DMI
+  280  ./git-upload
+  281  asdfasdf
+  282  asdf
+  283  as
+  284  CD
+  285  cd
+  286  ./git-upload
+  287  asdkfmnasdnfasdklfnasdjknfasdf
+  288  asdf
+  289  askdkfkaskasdkmfasdf
+  290  asd
+  291  fas
+  292  df
+  293  as
+  294  git push origin master
+  295  cd DMI
+  296  ls -la
+  297  ./git-upload
+  298  SUDDDDSd
+  299  git push origin master
+  300  asdfsdfsdfasfasf
+  301  asd
+  302  as
+  303* 
+  304  as
+  305  asd
+  306  history
+  307  yes
+  308  history > history9.txt
